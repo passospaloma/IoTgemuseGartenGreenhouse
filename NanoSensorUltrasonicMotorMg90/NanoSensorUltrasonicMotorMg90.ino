@@ -1,3 +1,8 @@
+/*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
+
+//Include Libraries
 #include <Servo.h>
 
 #define SERVO_PIN 9
