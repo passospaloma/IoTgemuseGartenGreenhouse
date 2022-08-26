@@ -1,5 +1,9 @@
 
- 
+ /*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
+
+//Include Libraries
 #include <SPI.h>
 #include <ESP8266WiFi.h>
 #include <Wire.h>
