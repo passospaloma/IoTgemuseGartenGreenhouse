@@ -2,6 +2,6 @@
 
 
 #define SECRET_SSID "CAIPIRINHA"    // replace MySSID with your WiFi network name
-#define SECRET_PASS "pa081281" // replace MyPassword with your WiFi password
+#define SECRET_PASS "p@081281" // replace MyPassword with your WiFi password
 
 #define SECRET_AUTH "GUDMrFR2P6L-qAlLsFZA1ZpqImislYKI"
