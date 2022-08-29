@@ -1,3 +1,8 @@
+/*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
+
+//Include Libraries
 void setup() {
  Serial.begin(115200); // open serial port, set the baud rate as 9600 bps
 }
