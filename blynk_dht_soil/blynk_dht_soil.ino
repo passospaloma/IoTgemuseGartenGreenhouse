@@ -1,7 +1,8 @@
-// Programa : Estacao Meteorologica com Arduino
+/*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
 
- 
-// Carrega bibliotecas graficas e sensores
+//Include Libraries
 
 #include <DHT.h>
 #include <ESP8266WiFi.h>
