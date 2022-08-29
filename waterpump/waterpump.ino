@@ -1,3 +1,8 @@
+/*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
+
+//Include Libraries
 #include <SPI.h>
 
 int motorPinOut = 10; //Pin starts water pump motor
