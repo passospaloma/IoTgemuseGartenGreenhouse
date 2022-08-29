@@ -1,7 +1,5 @@
 /*Program: GemüseGarten WeatherStation
    created by Paloma Passos
-    ESP8266 Deep sleep mode example
-
 */
 
 //Include Libraries
