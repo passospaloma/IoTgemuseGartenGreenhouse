@@ -1,3 +1,8 @@
+/*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
+
+//Include Libraries
 #define pinDigital 13
 #define pinAnalog 0
 #define pinRelay      7
