@@ -1,7 +1,8 @@
-// Programa : Estacao Meteorologica com Arduino
+/*Program: GemüseGarten WeatherStation
+   created by Paloma Passos
+*/
 
- 
-// Carrega bibliotecas graficas e sensores
+//Include Libraries
 #include <Adafruit_GFX.h>
 #include<Adafruit_PCD8544.h>
 #include <DHT.h>
@@ -20,7 +21,7 @@
 // pin 15 - LCD chip select (CS/CE)
 // pin 16- LCD reset (RST)
  
-// Inicializa o display nos pinos acima
+// Starts the display with pins
 Adafruit_PCD8544 display = Adafruit_PCD8544(16, 15, 14, 13, 12);
  
 
