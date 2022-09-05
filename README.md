@@ -1,8 +1,8 @@
-# IoTgemuseGartenGreenhouse
+# IoT GemüseGarten Greenhouse
 
-#### AUTOMATION OF AGRICULTURAL GREENHOUSES USING SENSORS AND ARDUINO
+#### AUTOMATION USING SENSORS AND ARDUINO
 
-Agriculture 4.0, or Digital Agriculture, is a trend in agribusiness, including a greater focus on Precision Agriculture, the Internet of Things (IoT) and the use of Big Data to generate greater efficiency as a result of population growth and climate change.
+Agriculture 4.0, or Digital Agriculture, is a trend in agrobusiness, including a greater focus on Precision Agriculture, the Internet of Things (IoT) and the use of Big Data to generate greater efficiency as a result of population growth and climate change.
 With the objective of producing more and better, with less, in order to increase food supply and reduce waste in a sustainable way, one of the 4 pillars of support of Agriculture 4.0 is the collection and management of field data.
 
 The project consists of using sensor and the Arduino platform to:
